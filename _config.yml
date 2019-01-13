@@ -1,8 +1,8 @@
 # Site settings 配置站点
-title: 'your awesome title'
-description: 'your web description'
-keywords: 'your web keywords, another keywords'
-url: 'https://abc.github.io' # your host
+title: '进击的数据'
+description: '我的大数据学习笔记'
+keywords: '数据清洗, 数据分析, 数据仓库, 数据挖掘, 数据可视化'
+url: 'https://www.icngc.com' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
